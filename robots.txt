@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://x3yfax8d.cn/sitemap.xml
